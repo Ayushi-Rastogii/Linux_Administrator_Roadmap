@@ -2,7 +2,7 @@
 
 This directory contains various command guides to help you understand essential Linux commands and their usage. You can find detailed descriptions, examples, and important flags for each command in their respective files.
 
-## Directory Structure
+## Command Navigation
 
 ```plaintext
 commands/
